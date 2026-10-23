@@ -1,4 +1,4 @@
-# 你好，我是邵敏峰 👋
+# 你好，我是 Allen Shao 👋
 
 <div align="center">
 
