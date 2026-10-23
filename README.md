@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/shaominfeng?style=social)](https://github.com/shaominfeng)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaominfeng8@gmail.com)
 [![Website](https://img.shields.io/badge/-Personal%20Site-E2451C?style=flat&logo=astro&logoColor=white)](https://shaominfeng.github.io/)
-[![Report](https://img.shields.io/badge/-AI%20Evolution%202022--2026-CD431D?style=flat&logo=readthedocs&logoColor=white)](https://shaominfeng.github.io/ai-evolution/)
+[![Report](https://img.shields.io/badge/-AI%20Evolution%202022--2026-CD431D?style=flat&logo=readthedocs&logoColor=white)](https://shaominfeng.github.io/blog/ai-evolution/)
 
 **中文** | [English](./README_EN.md)
 
@@ -15,7 +15,7 @@
 
 全栈软件工程师，专注于 AI 辅助开发和云安全解决方案。热衷于探索 AI Agent 架构、MCP 服务器和 Claude Skills 生态系统。
 
-> 🌐 个人主页：[shaominfeng.github.io](https://shaominfeng.github.io/) · 技术报告：[《从对话到协作》](https://shaominfeng.github.io/ai-evolution/)
+> 🌐 个人主页：[shaominfeng.github.io](https://shaominfeng.github.io/) · 文章集：[《从对话到协作》](https://shaominfeng.github.io/blog/ai-evolution/)
 
 - 🔐 在云安全解决方案和微服务架构方面经验丰富
 - 🤖 深入研究 AI 辅助开发，使用 Claude Code、MCP 服务器和 AI Agents
