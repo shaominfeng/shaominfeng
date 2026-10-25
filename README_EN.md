@@ -1,4 +1,4 @@
-# Hi there, I'm Allen Shao 👋
+# Hi there, I'm Allen Shao (邵敏峰) 👋
 
 <div align="center">
 
