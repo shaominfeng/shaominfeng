@@ -11,7 +11,9 @@
 
 ## 👨‍💻 About Me
 
-Full-stack Software Engineer specializing in AI-assisted development and cloud security solutions. Passionate about exploring AI Agent architectures, MCP servers, and the Claude Skills ecosystem.
+Full-stack engineer with three years of enterprise AI platform work, focused on AI agents, cloud security and platform engineering. Passionate about exploring MCP servers and the Claude Skills ecosystem.
+
+> 🌐 Homepage: [shaominfeng.github.io](https://shaominfeng.github.io/) · Writing: [blog](https://shaominfeng.github.io/blog/en/) · Series: [From Conversation to Collaboration](https://shaominfeng.github.io/blog/en/ai-evolution/)
 
 - 🔐 Experienced in cloud security solutions and microservices architecture
 - 🤖 Deep diving into AI-assisted development with Claude Code, MCP servers, and AI Agents
