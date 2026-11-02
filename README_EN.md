@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/shaominfeng?style=social)](https://github.com/shaominfeng)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaominfeng8@gmail.com)
 
-[中文](./README_ZH.md) | **English**
+[中文](./README.md) | **English**
 
 </div>
 
